@@ -57,7 +57,12 @@ Our client is seeking the expertise of our company to assist in effectively anal
 ### **3.   Data Quality Assessment**
 
 **3.1 About Data**
-The data set to be used is [Sprocket's existing customers data](https://cdnassets.theforage.com/vinternship_modules/kpmg_data_analytics/KPMG_VI_New_raw_data_update_final.xlsx)
+The data set to be used is [Sprocket's existing customers data](https://cdn-assets.theforage.com/vinternship_modules/kpmg_data_analytics/KPMG_VI_New_raw_data_update_final.xlsx). It contains details about the following:
+
+- Customer Demographics
+- Customer Address
+- Transactions
+- New Customers' List
 
 
 
