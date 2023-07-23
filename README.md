@@ -179,10 +179,6 @@ The lowest revenue generating month is September.
 
 ### **4.8 Determine Top 10 Goods:**
 
-![An Image](./top_ten_goods.png)
-
-The above shows the top 10 goods that customers purchase from Sprocket. Please check the table below:
-
 
 
 
