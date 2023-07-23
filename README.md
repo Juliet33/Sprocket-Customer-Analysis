@@ -179,7 +179,7 @@ The lowest revenue generating month is September.
 
 ### **4.8 Determine Top 10 Goods:**
 
-
+![An Image](./list_of_top_10_goods.png)
 
 
 
