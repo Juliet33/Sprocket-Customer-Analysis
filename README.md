@@ -64,6 +64,6 @@ The data set to be used is [Sprocket's existing customers data](https://cdn-asse
 - Transactions
 - New Customers' List
 
-
-
+**3.1 Data Quality Issues and Recommendations**
+A quite number of issues were identified in the datasets and you can find everything [here](https://github.com/Juliet33/Sprocket-Customer-Analysis/blob/main/Data%20Quality%20Assessment.pdf).
 
