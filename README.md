@@ -199,3 +199,11 @@ The **Medium** and **High** product classes are also favourites.
 
       
        
+
+
+
+
+
+## **5. Data Insights and Presentation**
+
+Please find the dashboardshowing details for the target customers [here](https://public.tableau.com/app/profile/juliet.uadiale/viz/SprocketTargetCustomers_16901315213920/Dashboard1).
