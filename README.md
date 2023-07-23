@@ -33,7 +33,7 @@ Author: "Juliet Uadiale"
     
 
 ## **1.   Introduction** 
-This project is centered on Sprocket Central Pty Ltd, a mid size bikes and cycling accessories company situated in Australia. It produces 6 brands of bikes (bicycles) in different sizes and classes. 
+This project is centered on Sprocket Central Pty Ltd, a mid size bikes and cycling accessories company situated in Australia. It produces 6 brands of bikes (bicycles) in different product lines and classes. 
 
 **The brands are as follows:**
 - Giant Bicycles
