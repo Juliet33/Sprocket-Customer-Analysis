@@ -17,14 +17,17 @@ Author: "Juliet Uadiale"
  3. Data Quality Assessment
       + 3.1 About Data
       + 3.2 Data Quality Issues and Recommendations.
-      
-      
+          
  4. Data Analysis
-       + 4.1 Import data sets
-       + 4.2 Preview imported data sets 
-       + 4.3 Clean data    
-
- 5. Data Insights and Presentation
+       + 4.1 Exploratory Data Analysis
+       + 4.2 Determine Customers per state
+       + 4.3 Determine Revenue per Age group
+       + 4.4 Determine Revenue per Month
+       + 4.5 Determine Top 10 goods
+       + 4.6 Determine Females per Age group
+       + 4.7 Determine Males per Age group
+       
+5. Data Insights and Presentation
     
 
 ### **1.   Introduction** 
@@ -56,7 +59,8 @@ Our client is seeking the expertise of our company to assist in effectively anal
 
 ### **3.   Data Quality Assessment**
 
-**3.1 About Data**
+**3.1 About Data:**
+
 The data set to be used is [Sprocket's existing customers data](https://cdn-assets.theforage.com/vinternship_modules/kpmg_data_analytics/KPMG_VI_New_raw_data_update_final.xlsx). It contains details about the following:
 
 - Customer Demographics
@@ -64,8 +68,12 @@ The data set to be used is [Sprocket's existing customers data](https://cdn-asse
 - Transactions
 - New Customers' List
 
-**3.2 Data Quality Issues and Recommendations**
-A quite number of issues were identified in the datasets and you can find everything [here](https://github.com/Juliet33/Sprocket-Customer-Analysis/blob/main/Data%20Quality%20Assessment.pdf).
+
+**3.2 Data Quality Issues and Recommendations:**
+
+Quite a number of issues were identified in the datasets and you can find everything [here](https://github.com/Juliet33/Sprocket-Customer-Analysis/blob/main/Data%20Quality%20Assessment.pdf).
+
+
 
 
 
