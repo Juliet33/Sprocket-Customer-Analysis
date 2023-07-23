@@ -32,14 +32,26 @@ Author: "Juliet Uadiale"
     
 
 ## **1.   Introduction** 
-This project is centered on Sprocket Central Pty Ltd, a mid size bikes and cycling accessories company situated in Australia. It produces 6 brands of bikes (bicycles) in different sizes and classes. The brands are as follows;
+This project is centered on Sprocket Central Pty Ltd, a mid size bikes and cycling accessories company situated in Australia. It produces 6 brands of bikes (bicycles) in different sizes and classes. 
 
+**The brands are as follows:**
 - Giant Bicycles
 - Norco Bicycles
 - OHM Cycles
 - Solex
 - Trek Bicycles
 - WeareA2B
+
+**The Product Lines are:**
+  - Mountain
+  - Road
+  - Standard
+  - Touring
+ 
+ **The Product Classes are:**
+  - Low
+  - Medium
+  - High
 
 ![Sprocket Logo](./sprocket_central_logo.png)
 
@@ -62,7 +74,7 @@ Our client is seeking the expertise of our company to assist in effectively anal
 
 ## **3.   Data Quality Assessment**
 
-### **3.1 About Data:**
+### **3.1. About Data:**
 
 The data set to be used is [Sprocket's existing customers data](https://cdn-assets.theforage.com/vinternship_modules/kpmg_data_analytics/KPMG_VI_New_raw_data_update_final.xlsx). It contains details about the following:
 
@@ -73,7 +85,7 @@ The data set to be used is [Sprocket's existing customers data](https://cdn-asse
 
 
 
-### **3.2 Data Quality Issues and Recommendations:**
+### **3.2. Data Quality Issues and Recommendations:**
 
 Quite a number of issues were identified in the datasets and you can find everything [here](https://github.com/Juliet33/Sprocket-Customer-Analysis/blob/main/Data%20Quality%20Assessment.pdf).
 
@@ -84,7 +96,7 @@ Quite a number of issues were identified in the datasets and you can find everyt
 
 ## **4. Data Analysis**
 
-### **4.1 Exploratory Data Analysis:**
+### **4.1. Exploratory Data Analysis:**
 
 This section shows a simple statistics of existing customers' age.
 
@@ -96,7 +108,7 @@ This section shows a simple statistics of existing customers' age.
 
 
 
-### **4.2 Determine Customers per state:**
+### **4.2. Determine Customers per state:**
 
 ![An Image](./customers_per_state.png)
 
@@ -109,7 +121,7 @@ This image shows that a large portion of the customers reside in New South Wales
 
 
 
-### **4.3 Determine Revenue per State:**
+### **4.3. Determine Revenue per State:**
 
 ![An Image](./revenue_per_state.png)
 
@@ -122,7 +134,7 @@ We can see from the image above that though there are more customers situated in
 
 
 
-### **4.4 Determine Revenue per Age Group:**
+### **4.4. Determine Revenue per Age Group:**
 
 ![An Image](./revenue_per_agegroup.png)
 
@@ -135,7 +147,7 @@ The least revenue generating age group are customers **above 70 years old**.
 
 
 
-### **4.5 Determine Females per Age Group:**
+### **4.5. Determine Females per Age Group:**
 
 ![An Image](./females_per_agegroup.png)
 
@@ -147,7 +159,7 @@ The least revenue generating age group are customers **above 70 years old**.
 
 
 
-### **4.6 Determine Males per Age Group:**
+### **4.6. Determine Males per Age Group:**
 
 ![An Image](./males_per_agegroup.png)
 
@@ -161,7 +173,7 @@ We can say the same for males, that those between the ages of **42 to 48 years o
 
 
 
-### **4.7 Determine Revenue per Month:**
+### **4.7. Determine Revenue per Month:**
 
 ![An Image](./revenue_per_month.png)
 
@@ -177,12 +189,13 @@ The lowest revenue generating month is September.
 
 
 
-### **4.8 Determine Top 10 Goods:**
+### **4.8. Determine Top 10 Goods:**
 
 ![An Image](./list_of_top_10_goods.png)
 
-
-
+The above shows the top 10 goods purchased by Sprocket's existing customers. 
+The **Standard** Product line is the most preferred product line.
+The **Medium** and **High** product classes are also favourites.
 
       
        
