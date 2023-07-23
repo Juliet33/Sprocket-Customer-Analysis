@@ -28,7 +28,8 @@ Author: "Juliet Uadiale"
        + 4.7 Determine Females per Age group
        + 4.8 Determine Males per Age group
        
-5. Data Insights and Presentation
+5. Presentation
+6. Recommendations
     
 
 ## **1.   Introduction** 
@@ -204,6 +205,12 @@ The **Medium** and **High** product classes are also favourites.
 
 
 
-## **5. Data Insights and Presentation**
+## **5. Presentation**
 
-Please find the dashboardshowing details for the target customers [here](https://public.tableau.com/app/profile/juliet.uadiale/viz/SprocketTargetCustomers_16901315213920/Dashboard1).
+Please find the dashboard showing details for the target customers [here](https://public.tableau.com/app/profile/juliet.uadiale/viz/SprocketTargetCustomers_16901315213920/Dashboard1).
+
+
+
+## **6. Recommendations**
+
+a. 
