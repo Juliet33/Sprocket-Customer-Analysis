@@ -23,10 +23,12 @@ Author: "Juliet Uadiale"
        + 4.2 Determine Customers per state
        + 4.3 Determine Revenue per State
        + 4.4 Determine Revenue per Age group
-       + 4.5 Determine Revenue per Month
-       + 4.6 Determine Top 10 goods
-       + 4.7 Determine Females per Age group
-       + 4.8 Determine Males per Age group
+       + 4.5 Determine Females per Age group
+       + 4.6 Determine Males per Age group
+       + 4.7 Determine Revenue per Month
+       + 4.8 Determine Revenue per Product Class & Line
+       + 4.9 Determine Top 10 goods
+       
        
 5. Presentation
 6. Recommendations
@@ -60,9 +62,9 @@ This project is centered on Sprocket Central Pty Ltd, a mid size bikes and cycli
 ## **2.   Statement of Business Task** 
 Our client is seeking the expertise of our company to assist in effectively analyzing their datasets to identify trends and behaviuor in existing customers derive data-driven insights for their marketing strategies. In order to reach this goal, we have been assigned three tasks:
 
-- Data Quality Assessment: this task entails assessing the quality of their data, make recommendations on ways to clean and migate any issues.
-- Data Analysis: this task involves analyzing existing customers' data to identify trends and behaviour.
-- Data Insights and Presentation: involves using the trends and behaviour identified to give data-driven insights to the Client on new customer targets and marketing strategies as a whole.
+- **Data Quality Assessment:** this task entails assessing the quality of their data, make recommendations on ways to clean and migate any issues.
+- **Data Analysis:** this task involves analyzing existing customers' data to identify trends and behaviour.
+- **Data Insights and Presentation:** involves using the data insights derived from existing customers' analysis to target potential high value customers from the list of new customers given to us. 
 
 **Key Stakeholders involved;** 
 
@@ -189,8 +191,26 @@ The lowest revenue generating month is September.
 
 
 
+### **4.8. Determine Revenue per Product Category:**
 
-### **4.8. Determine Top 10 Goods:**
+![An Image](./revenue_per_product_class&line.png)
+
+The above shows that the **Medium, Standard** is the highest generating product category for Sprocket and the least revenue generating product category is the **High, Road**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### **4.9. Determine Top 10 Goods:**
 
 ![An Image](./list_of_top_10_goods.png)
 
