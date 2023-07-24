@@ -233,4 +233,14 @@ Please find the dashboard showing details for the target customers [here](https:
 
 ## **6. Recommendations**
 
-a. 
+In order for Sprocket to increase revenue by targeting high value customers, the following recommendations have been provided:
+
+a. The analysis showed the highest revenue generating month to be October and the lowest to be September. Sprocket should use the month of September to produce more products in preparedness for October to take advantage of the high demand.
+
+b. Male and Female customers between the ages of 42 to 48 years old should be focused more on because they generate 48% of Sprocket's revenue.
+
+c. Customers who reside in New South Wales should be of primary focus and all the brands should be promoted here with **Solex** being the top brand promoted.
+
+d. The Medium, Standard product category should be of top most prioty because it generates 50% of the annual revenue of Sprocket. 
+
+e. The production of the High, Road product category should be stopped and the resources diverted to the production of the Medium, Road and High, Standard product categories.
