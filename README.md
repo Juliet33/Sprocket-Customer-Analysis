@@ -15,19 +15,20 @@ Author: "Juliet Uadiale"
  2. Statement of Business Task
 
  3. Data Quality Assessment
-      + 3.1 About Data
-      + 3.2 Data Quality Issues and Recommendations.
+      + 3.1. About Data
+      + 3.2. Data Quality Issues and Recommendations.
           
  4. Data Analysis
-       + 4.1 Exploratory Data Analysis
-       + 4.2 Determine Customers per state
-       + 4.3 Determine Revenue per State
-       + 4.4 Determine Revenue per Age group
-       + 4.5 Determine Females per Age group
-       + 4.6 Determine Males per Age group
-       + 4.7 Determine Revenue per Month
-       + 4.8 Determine Revenue per Product Class & Line
-       + 4.9 Determine Top 10 goods
+       + 4.1. Exploratory Data Analysis
+       + 4.2. Determine Customers per state
+       + 4.3. Determine Revenue per State
+       + 4.4. Determine Revenue per Age group
+       + 4.5. Determine Females per Age group
+       + 4.6. Determine Males per Age group
+       + 4.7. Determine Revenue per Month
+       + 4.8. Determine Revenue per Product Class & Line
+       + 4.9. Determine Brands per State
+       + 4.10. Determine Top 10 Goods
        
        
 5. Presentation
@@ -208,9 +209,20 @@ The above shows that the **Medium, Standard** is the highest generating product 
 
 
 
+### **4.9. Determine Brands per State:**
+
+![An Image](./brands_per_state.png)
+
+The analysis shows that all brands are thriving well in the New South Wales state, seconded by Victoria and Queensland is the least.
 
 
-### **4.9. Determine Top 10 Goods:**
+
+
+
+
+
+
+### **4.10. Determine Top 10 Goods:**
 
 ![An Image](./list_of_top_10_goods.png)
 
@@ -239,7 +251,7 @@ a. The analysis showed the highest revenue generating month to be October and th
 
 b. Male and Female customers between the ages of 42 to 48 years old should be focused more on because they generate 48% of Sprocket's revenue.
 
-c. Customers who reside in New South Wales should be of primary focus and all the brands should be promoted here with **Solex** being the top brand promoted.
+c. Customers who reside in New South Wales should be of primary focus and all the brands should be promoted here with **Solex** being of top priority.
 
 d. The Medium, Standard product category should be of top most prioty because it generates 50% of the annual revenue of Sprocket. 
 
